@@ -9,6 +9,6 @@
 
     <string name="hello_first_fragment">0</string>
     <string name="hello_second_fragment">Second page!</string>
-    <string name="toast_button_text">Left</string>
+    <string name="toast_button_text">Toast</string>
     <string name="count_button_text">Count</string>
 </resources>
